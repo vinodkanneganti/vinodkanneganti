@@ -4,7 +4,7 @@
 - #Leadership #Build & Scale Teams #eCommerce #Cloud-Native
 
 
-- 📫 How to reach me ...
+- 📫 How to reach me ...Ping me on LinkedIn , my profile url is https://www.linkedin.com/in/vinodkanneganti/
 
 <!---
 vinodkanneganti/vinodkanneganti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
