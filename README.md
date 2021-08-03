@@ -6,6 +6,9 @@
 <a href="https://twitter.com/vinodkanneganti">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+<br />
+
+### About Me 🚀
 
 - I currently work as Head of Member Growth Engineering at [Visible](https://www.visible.com), where I support multiple full-stack engineering teams that power Visible's core digital platform.
 - I am someone who loves building and supporting high-performing teams that solve real-world problems for customers.
