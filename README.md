@@ -1,5 +1,13 @@
-- 👋 Hi, I’m @vinodkanneganti
-- I currently work as Head of Member Growth Engineering at Visible, where I support multiple full-stack engineering teams that power Visible's core digital platform.
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Vinod!](https://vinodk.net) 
+
+<a href="https://www.linkedin.com/in/vinodkanneganti/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="https://twitter.com/vinodkanneganti">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+
+- I currently work as Head of Member Growth Engineering at [Visible](https://www.visible.com), where I support multiple full-stack engineering teams that power Visible's core digital platform.
 - I am someone who loves building and supporting high-performing teams that solve real-world problems for customers.
 - #Leadership #Build & Scale Teams #eCommerce #Cloud-Native
 
