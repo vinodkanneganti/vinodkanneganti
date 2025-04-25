@@ -10,7 +10,8 @@
 
 ### About Me 🚀
 
-- I currently work as Head of Member Growth Engineering at [Visible](https://www.visible.com), where I support multiple full-stack engineering teams that power Visible's core digital platform.
+- I currently serve as an Engineering Director at Verizon Value Brands, where I lead multiple teams focused on developing and enhancing the company’s core digital platform. My focus is on driving engineering excellence, fostering a collaborative culture, and delivering seamless digital experiences that empower our customers.
+- 
 - I am someone who loves building and supporting high-performing teams that solve real-world problems for customers.
 - #Leadership #Build & Scale Teams #eCommerce #Cloud-Native
 
