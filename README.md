@@ -14,7 +14,7 @@
 
 - **A personal AI dev factory:** an agent pipeline running on my own hardware that takes an idea through a PRD, issues, implementation, real-browser verification and code review. People approve the plan and merge the code.
 - **Guardrails that hold:** architecture and tech stack rules that are checked automatically before any agent's code is pushed, instead of being left to the model's judgment.
-- **MCP:** connecting agents to real tools and data with the Model Context Protocol.
+- **MCP in production:** I've built Spring Boot MCP tools that connect Google's conversational AI engine to the chatbots serving Verizon's prepaid brands, including Visible and Total Wireless.
 
 **Focus areas:** Engineering Leadership · Building and Scaling Teams · eCommerce · Cloud-Native · Agentic Engineering
 
