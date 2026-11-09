@@ -1,21 +1,23 @@
 ## Hey 👋, I'm [Vinod](https://vinodk.net)
 
-**Engineering Director at Verizon Value Brands. Full-stack engineer at heart.**
+**Engineering Director building AI platforms, and the teams that ship on them.**
 
 [vinodk.net](https://vinodk.net) · [LinkedIn](https://www.linkedin.com/in/vinodkanneganti/) · [X](https://x.com/vinodkanneganti)
 
-### What I do
-
-- **Engineering leadership:** I lead multiple teams building and evolving the core digital platform at Verizon Value Brands. I care about engineering excellence, collaborative culture, and teams that solve real problems for customers.
-- **Full-stack development:** I still build. Lately that means React and TypeScript on the front end and Go on the back end.
-- **Forward-deployed mindset (FDE):** I work the way a forward-deployed engineer does: close to the people with the problem, and owning the solution from the first conversation through to production.
+### What I lead
+- **Multi-brand commerce platform:** I lead 40+ engineers building a shared platform (Next.js, Spring Boot WebFlux) that serves multiple consumer brands from one codebase.
+- **AI in production:** my teams built MCP tool servers connecting an enterprise conversational AI platform to customer-facing chatbots across those brands.
+- **Forward-deployed by design:** my teams run on FDE principles. Engineers sit close to the business and customer-facing teams who have the problem, own the outcome from discovery through production, and measure success by adoption, not by delivery.
 
 ### What I'm building with AI
+- **[Agentic dev harness]:** a self-hosted pipeline that takes a PRD → stories → implementation → real-browser verification → code review → PR. An evals agent scores each stage, and humans approve the plan and merge the code.
+- **[Deterministic guardrails]:** architecture and stack rules enforced as pre-push checks on agent output, not left to model judgment.
 
-- **A personal AI dev factory:** an agent pipeline running on my own hardware that takes an idea through a PRD, issues, implementation, real-browser verification and code review. People approve the plan and merge the code.
-- **Guardrails that hold:** architecture and tech stack rules that are checked automatically before any agent's code is pushed, instead of being left to the model's judgment.
-- **MCP in production:** I've built Spring Boot MCP tools that connect Google's conversational AI engine to the chatbots serving Verizon's prepaid brands, including Visible and Total Wireless.
+### How I think about AI platforms
+- Paved roads over one-off pilots: shared tooling (MCP, evals, guardrails) that every team builds on.
+- Evals and human approval gates before autonomy.
+- Platform teams that work forward-deployed: build with the product teams, not just for them.
 
-**Focus areas:** Engineering Leadership · Building and Scaling Teams · eCommerce · Cloud-Native · Agentic Engineering
+**Stack:** TypeScript/React · Next.js · Java/Spring Boot · Kotlin Multiplatform · Claude Code & Agent SDK · MCP · GCP
 
-📫 Want to talk teams or agentic engineering? Find me on [LinkedIn](https://www.linkedin.com/in/vinodkanneganti/).
+📫 Talking about AI platforms or forward-deployed engineering teams? [LinkedIn](https://www.linkedin.com/in/vinodkanneganti/)
