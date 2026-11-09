@@ -1,23 +1,21 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Vinod](https://vinodk.net) 
+## Hey 👋, I'm [Vinod](https://vinodk.net)
 
-<a href="https://www.linkedin.com/in/vinodkanneganti/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
-<a href="https://twitter.com/vinodkanneganti">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<br />
+**Engineering Director at Verizon Value Brands. Full-stack engineer at heart.**
 
-### About Me 🚀
+[vinodk.net](https://vinodk.net) · [LinkedIn](https://www.linkedin.com/in/vinodkanneganti/) · [X](https://x.com/vinodkanneganti)
 
-- I currently serve as an Engineering Director at Verizon Value Brands, where I lead multiple teams focused on developing and enhancing the company’s core digital platform. My focus is on driving engineering excellence, fostering a collaborative culture, and delivering seamless digital experiences that empower our customers.
-- I am someone who loves building and supporting high-performing teams that solve real-world problems for customers.
-- #Leadership #Build & Scale Teams #eCommerce #Cloud-Native
+### What I do
 
+- **Engineering leadership:** I lead multiple teams building and evolving the core digital platform at Verizon Value Brands. I care about engineering excellence, collaborative culture, and teams that solve real problems for customers.
+- **Full-stack development:** I still build. Lately that means React and TypeScript on the front end and Go on the back end.
+- **Forward-deployed mindset (FDE):** I work the way a forward-deployed engineer does: close to the people with the problem, and owning the solution from the first conversation through to production.
 
-- 📫 If you think I would be a good fit for your team, drop me a line on LinkedIn, my profile url is https://www.linkedin.com/in/vinodkanneganti/
+### What I'm building with AI
 
-<!---
-vinodkanneganti/vinodkanneganti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **A personal AI dev factory:** an agent pipeline running on my own hardware that takes an idea through a PRD, issues, implementation, real-browser verification and code review. People approve the plan and merge the code.
+- **Guardrails that hold:** architecture and tech stack rules that are checked automatically before any agent's code is pushed, instead of being left to the model's judgment.
+- **MCP:** connecting agents to real tools and data with the Model Context Protocol.
+
+**Focus areas:** Engineering Leadership · Building and Scaling Teams · eCommerce · Cloud-Native · Agentic Engineering
+
+📫 Want to talk teams or agentic engineering? Find me on [LinkedIn](https://www.linkedin.com/in/vinodkanneganti/).
