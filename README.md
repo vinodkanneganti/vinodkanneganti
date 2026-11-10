@@ -10,7 +10,7 @@
 - **Forward-deployed by design:** my teams run on FDE principles. Engineers sit close to the business and customer-facing teams who have the problem, own the outcome from discovery through production, and measure success by adoption, not by delivery.
 
 ### What I'm building with AI
-- **[Agentic dev harness]:** a self-hosted pipeline that takes a PRD → stories → implementation → real-browser verification → code review → PR. An evals agent scores each stage, and humans approve the plan and merge the code.
+- **[Agentic dev harness]:** a self-hosted pipeline that takes an idea -> PRD -> spec → stories → implementation → real-browser verification → code review → PR. An evals agent scores each stage, and humans approve the plan and merge the code.
 - **[Deterministic guardrails]:** architecture and stack rules enforced as pre-push checks on agent output, not left to model judgment.
 
 ### How I think about AI platforms
